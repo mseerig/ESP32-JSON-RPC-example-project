@@ -1,0 +1,3 @@
+[submodule "components/ESP32-Toolkit"]
+	path = components/ESP32-Toolkit
+	url = https://github.com/mseerig/ESP32-Toolkit
